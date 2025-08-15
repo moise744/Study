@@ -2,7 +2,7 @@
 
 and then  in the requesr we get:
 
-request={
+request={jgyfdrxdfcgvhjfgfxchvbjkhvbvcg
     POST:{},
     GET:{},
     FILES:{},
@@ -28,4 +28,4 @@ as we know there is something you didnt know did you know that when the request 
 
 so means we have to write the urls patterns because we must have them. that is the reason why when we do like from rest_framework import routers this is the file we are importing that is responsible for creating the urlspatterns for us so that when django is doing the search ,it finds the match pattersn.__path__
 from rest_framework.routers import DefaultRouter
-routers=DefaultRouter()
+routers=DefaultRouter()ghdgszfcvb 
